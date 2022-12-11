@@ -32,8 +32,7 @@
     background-attachment: fixed;
     background-position: center;
 }
-  
-  
+
 .jumbotron:after {
     background: linear-gradient(135deg, #4d3f5d 0%, #5f3486 100%);
     opacity: 0.75;
@@ -44,4 +43,12 @@
     height: 100%;
     content: ' ';
     position: absolute;
+}
+/* grid styling */
+.row {
+    margin-bottom: 10px;
+  }
+
+#copyright{
+    background-color: rgba(0, 0, 0, 0.2);
 }
