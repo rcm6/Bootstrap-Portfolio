@@ -1,14 +1,23 @@
-/* Jumbotron styling */
+/* navbar styling */
+.bg-trans {
+    background: #00000054;
+}
+    
+.navbar-nav{
+    padding-bottom: 2px;
+}
 
+/* Jumbotron styling */
 .jumbotron .container {
     padding-top:130px;
-  }
+}
   
-  .jumbotron h1, .jumbotron p {color: #fff;
+.jumbotron h1, .jumbotron p {color: #fff;
     position: relative;
-  z-index: 9999;}
+    z-index: 9999;
+}
   
-  .jumbotron {
+.jumbotron {
     position: relative;
     padding: 0;
     height: 500px;
@@ -22,10 +31,10 @@
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-  }
+}
   
   
-  .jumbotron:after {
+.jumbotron:after {
     background: linear-gradient(135deg, #4d3f5d 0%, #5f3486 100%);
     opacity: 0.75;
     display: block;
@@ -35,4 +44,4 @@
     height: 100%;
     content: ' ';
     position: absolute;
-  }
+}
