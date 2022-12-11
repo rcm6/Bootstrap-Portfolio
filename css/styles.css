@@ -1,4 +1,8 @@
 /* navbar styling */
+#nav li{
+    font-size: 1.3rem;
+  }
+
 .bg-trans {
     background: #00000054;
 }
