@@ -7,7 +7,7 @@ This site showcases the web development projects I've created.
 ![Project Screenshot](/Screenshot.png?raw=true)
 
 ## Link
-[https://rcm6.github.io/Bootstrap-Portfolio/](https://https://rcm6.github.io/Bootstrap-Portfolio/)
+[https://rcm6.github.io/Bootstrap-Portfolio/](https://rcm6.github.io/Bootstrap-Portfolio/)
 
 
 ## Installation
